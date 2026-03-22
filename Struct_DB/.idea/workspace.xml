@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e685ba1-cbd1-46f7-bfc6-76dbd844f143" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.rustlings-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/08_enums/enums1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/08_enums/enums1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/08_enums/enums2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/08_enums/enums2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solutions/08_enums/enums1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../solutions/08_enums/enums1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solutions/08_enums/enums2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../solutions/08_enums/enums2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-1e7352955732ac8a/test-bin-enums1" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-1e7352955732ac8a/test-bin-enums1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-24aaed1d11dec3c1/output-test-bin-macros2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-27d889dffa20eb94/bin-structs3" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-27d889dffa20eb94/bin-structs3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-29e4492ba366db7b/test-bin-enums2_sol" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-29e4492ba366db7b/test-bin-enums2_sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-66978143f4db4dda/output-bin-strings4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-6a4331f4da30f576/output-test-bin-threads3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-6e7478f0936dab32/output-bin-try_from_into" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-7e9702d227fc71c5/bin-enums2" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-7e9702d227fc71c5/bin-enums2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-85e3699243c98199/bin-structs3_sol" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-85e3699243c98199/bin-structs3_sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-860deecd6af7a22d/bin-enums2_sol" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-860deecd6af7a22d/bin-enums2_sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-abb1fc5a93e1d11c/output-test-bin-traits4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-b234b13d7b283b2f/bin-enums1" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-b234b13d7b283b2f/bin-enums1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-b234b13d7b283b2f/output-bin-enums1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-b47ba28c0401e70c/test-bin-structs3_sol" beforeDir="false" afterPath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-b47ba28c0401e70c/test-bin-structs3_sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-c0802a934a7e81a3/output-bin-lifetimes3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-c9124db53a2c3ea0/output-bin-errors3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-dc538546a486ea6c/output-test-bin-options1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-dd1bb1e6afb00e68/output-test-bin-iterators3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-df6bae7f08fb4a01/output-bin-using_as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-e58fa99f9106a78a/output-bin-enums1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-e867dfa29e677d6e/output-bin-enums2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/.fingerprint/exercises-f440b4c67555d789/output-bin-macros1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/arc1-2nqwd2xnpepa2/s-hfypmxfl0w-1ehnsrq-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/arc1-2nqwd2xnpepa2/s-hfypmxfl0w-1ehnsrq.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/arc1-2q3ggxsnfgkjc/s-hfyp9v81g4-1codgj7-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/arc1-2q3ggxsnfgkjc/s-hfyp9v81g4-1codgj7.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/as_ref_mut-3icsun8d0etbz/s-hfypmxeikf-1nr89fq-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/as_ref_mut-3icsun8d0etbz/s-hfypmxeikf-1nr89fq.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/as_ref_mut-3symo21b1qfpp/s-hfypakk0nv-0db5fn4-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/as_ref_mut-3symo21b1qfpp/s-hfypakk0nv-0db5fn4.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/box1-14x7lz70ig8nj/s-hfyp9v7qrz-0qj357h-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/box1-14x7lz70ig8nj/s-hfyp9v7qrz-0qj357h.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/box1-3svt4na807e3w/s-hfyp9ylzjd-1ofekqi-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/box1-3svt4na807e3w/s-hfyp9ylzjd-1ofekqi.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/cow1-36erfopm9zbcx/s-hfypmxf6ab-0s7w0kq-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/cow1-36erfopm9zbcx/s-hfypmxf6ab-0s7w0kq.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums1-09j3wd4gpf386/s-hfyparnen0-114y4i1-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums1-09j3wd4gpf386/s-hfyparnen0-114y4i1.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums1-3miugdubdlgz2/s-hfypmxqe9y-1d6cfx9-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums1-3miugdubdlgz2/s-hfypmxqe9y-1d6cfx9.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums1-3rgwuwr4e2hxz/s-hfypacbovi-15h5qga-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums1-3rgwuwr4e2hxz/s-hfypacbovi-15h5qga.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-04lhsghrsh9gh/s-hf9biwot6c-15ii8kt-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-04lhsghrsh9gh/s-hf9biwot6c-15ii8kt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-1ggya11n5xvfd/s-hfypatnomm-1c127tt-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-1ggya11n5xvfd/s-hfypatnomm-1c127tt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-1ggya11n5xvfd/s-hfypatyzon-03o40hb-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-1ggya11n5xvfd/s-hfypatyzon-03o40hb.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-2g8mruma0qyw5/s-hfypakkn6a-0no8jn6-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/enums2-2g8mruma0qyw5/s-hfypakkn6a-0no8jn6.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors1-0rhwyw4sxbjpu/s-hfypmxepm0-14qim7x-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors1-0rhwyw4sxbjpu/s-hfypmxepm0-14qim7x.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors2-142zyla4bctat/s-hfyp9z1oux-0z8k60h-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors2-142zyla4bctat/s-hfyp9z1oux-0z8k60h.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors2-365v7qlphnzag/s-hfyp9ymekp-03d9djw-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors2-365v7qlphnzag/s-hfyp9ymekp-03d9djw.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors3-1sdjufavuwk3j/s-hfypmxqnkb-00kan56-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors3-1sdjufavuwk3j/s-hfypmxqnkb-00kan56.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors3-23eo5av7ci378/s-hfypaty2kb-035zjaq-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors3-23eo5av7ci378/s-hfypaty2kb-035zjaq.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors5-0y0dp6rjmh3qb/s-hfypatnhtj-0rf81di-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors5-0y0dp6rjmh3qb/s-hfypatnhtj-0rf81di.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors5-21odcol57wqe3/s-hfypakk16k-1moet38-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/errors5-21odcol57wqe3/s-hfypakk16k-1moet38.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_into-2ayvsfbmlc2np/s-hfyp98i7p6-15zl20p-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_into-2ayvsfbmlc2np/s-hfyp98i7p6-15zl20p.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_into-2qf76l5m1j56z/s-hfypakkdnh-1g73p16-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_into-2qf76l5m1j56z/s-hfypakkdnh-1g73p16.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_str-04bofx7vb0c5q/s-hfypahlrrl-0f30esy-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_str-04bofx7vb0c5q/s-hfypahlrrl-0f30esy.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_str-04bofx7vb0c5q/s-hfypakkh77-0q7krs3-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_str-04bofx7vb0c5q/s-hfypakkh77-0q7krs3.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_str-3rysrxocgw7vn/s-hfypmxowqc-0y11iuw-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/from_str-3rysrxocgw7vn/s-hfypmxowqc-0y11iuw.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/generics1-0botdv4j72yxs/s-hfyp9z2f7o-0jrbw66-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/generics1-0botdv4j72yxs/s-hfyp9z2f7o-0jrbw66.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/generics1-15zh2ozbvrv5t/s-hfypatnvnb-135jitg-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/generics1-15zh2ozbvrv5t/s-hfypatnvnb-135jitg.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/generics2-00p2u20hfgma4/s-hfyp997saj-17bpk9r-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/generics2-00p2u20hfgma4/s-hfyp997saj-17bpk9r.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/hashmaps1-08z5p345bk7eu/s-hfypmxf5ce-15pe6ef-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/hashmaps1-08z5p345bk7eu/s-hfypmxf5ce-15pe6ef.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/hashmaps1-2b1dsco22sl2x/s-hfypacsmbp-1f88nqo-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/hashmaps1-2b1dsco22sl2x/s-hfypacsmbp-1f88nqo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators1-14edh3low6nbu/s-hfypahlx0y-0t2wefi-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators1-14edh3low6nbu/s-hfypahlx0y-0t2wefi.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators2-049annjapmry7/s-hfyp9v7w3j-07h03v2-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators2-049annjapmry7/s-hfyp9v7w3j-07h03v2.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators2-2wauvahopkzhb/s-hfypmxeseh-0strf2e-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators2-2wauvahopkzhb/s-hfypmxeseh-0strf2e.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators2-2wauvahopkzhb/s-hfypmxq3bp-0s7tt2x-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators2-2wauvahopkzhb/s-hfypmxq3bp-0s7tt2x.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators3-0g1bnf9wpbabk/s-hfypmxpjin-0pn46or-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators3-0g1bnf9wpbabk/s-hfypmxpjin-0pn46or.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators4-08mmbchdqxbk6/s-hfypacr7l8-1mbvutf-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators4-08mmbchdqxbk6/s-hfypacr7l8-1mbvutf.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators4-3q8gmsg049k9i/s-hfypacbzl9-02989nh-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators4-3q8gmsg049k9i/s-hfypacbzl9-02989nh.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators4-3q8gmsg049k9i/s-hfypahly03-0os0d7w-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators4-3q8gmsg049k9i/s-hfypahly03-0os0d7w.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators5-2hadi3qzocuzw/s-hfypatxxe0-1ovotu5-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators5-2hadi3qzocuzw/s-hfypatxxe0-1ovotu5.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators5-3iw3xoq57fsfd/s-hfypatncu5-0dgu57e-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/iterators5-3iw3xoq57fsfd/s-hfypatncu5-0dgu57e.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes1-03vk2bs5zwm14/s-hfypatnpqy-0ziv39m-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes1-03vk2bs5zwm14/s-hfypatnpqy-0ziv39m.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes1-13jkgaqbbxhu7/s-hfyp9eu8ow-0b8chtz-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes1-13jkgaqbbxhu7/s-hfyp9eu8ow-0b8chtz.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes2-1oqbxrdh5bj5e/s-hfypahmrz9-0h8nefw-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes2-1oqbxrdh5bj5e/s-hfypahmrz9-0h8nefw.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes2-3nivacf5wyy9i/s-hfyp9z1m82-1urtcbn-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes2-3nivacf5wyy9i/s-hfyp9z1m82-1urtcbn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes3-0f3xi56059msa/s-hfypaccnnc-0dn9xcv-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes3-0f3xi56059msa/s-hfypaccnnc-0dn9xcv.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes3-0yt99fg8z7yd6/s-hfypmxp6ul-0ijcq0h-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/lifetimes3-0yt99fg8z7yd6/s-hfypmxp6ul-0ijcq0h.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros1-061pvfdcnq0nj/s-hfypmxpv56-15fsm9m-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros1-061pvfdcnq0nj/s-hfypmxpv56-15fsm9m.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros1-27fdoi91zruvt/s-hfypmxfpjo-0bk2kbd-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros1-27fdoi91zruvt/s-hfypmxfpjo-0bk2kbd.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros2-0ou4wu4ysycu0/s-hfypmxp0tm-1tshkua-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros2-0ou4wu4ysycu0/s-hfypmxp0tm-1tshkua.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros2-1q4ssdfblnvv5/s-hfyp9z2fl5-1fqph0l-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros2-1q4ssdfblnvv5/s-hfyp9z2fl5-1fqph0l.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros3-2300arkjvebfx/s-hfypatzm5f-1rasft8-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros3-2300arkjvebfx/s-hfypatzm5f-1rasft8.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros3-3clxk441a8il2/s-hfypatyz32-0vreibu-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros3-3clxk441a8il2/s-hfypatyz32-0vreibu.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros4-0pd8cld0zopdu/s-hfyp9yltt5-1h5nse1-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros4-0pd8cld0zopdu/s-hfyp9yltt5-1h5nse1.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros4-21o4vd0dutgv0/s-hfypakk1zd-0up1c26-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/macros4-21o4vd0dutgv0/s-hfypakk1zd-0up1c26.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules1-0r9xq4vew306g/s-hfyp9utdh8-04w42an-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules1-0r9xq4vew306g/s-hfyp9utdh8-04w42an.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules1-0r9xq4vew306g/s-hfyp9ym5xt-1c5xu33-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules1-0r9xq4vew306g/s-hfyp9ym5xt-1c5xu33.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules1-0sut0ehwqovnq/s-hfynpqng6f-1l6wchn-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules1-0sut0ehwqovnq/s-hfynpqng6f-1l6wchn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules2-1ksdrd76v2jq8/s-hfypmxeln8-19hlun9-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules2-1ksdrd76v2jq8/s-hfypmxeln8-19hlun9.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules2-3sk3ldkpvb716/s-hfypmxpgtr-1fxthfr-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules2-3sk3ldkpvb716/s-hfypmxpgtr-1fxthfr.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules3-0e25s7uedl890/s-hfyp94xh7x-07uv2s9-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules3-0e25s7uedl890/s-hfyp94xh7x-07uv2s9.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules3-32uonj8fmt9wl/s-hfypahlyno-140rq16-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules3-32uonj8fmt9wl/s-hfypahlyno-140rq16.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules3-32uonj8fmt9wl/s-hfypakb209-1xt0mka-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/modules3-32uonj8fmt9wl/s-hfypakb209-1xt0mka.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options1-116mmn3965emd/s-hfypmxprbv-08uz3t3-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options1-116mmn3965emd/s-hfypmxprbv-08uz3t3.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options1-3looz4b6js3t8/s-hfypacr3v0-1mbndje-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options1-3looz4b6js3t8/s-hfypacr3v0-1mbndje.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options2-1vt4mf5q79drq/s-hfypmxf32n-1pi48sm-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options2-1vt4mf5q79drq/s-hfypmxf32n-1pi48sm.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options2-2mt8qyiqlzq95/s-hfyp94yu52-0qne0i9-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options2-2mt8qyiqlzq95/s-hfyp94yu52-0qne0i9.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options2-2mt8qyiqlzq95/s-hfyp98i3ns-13pc8t0-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options2-2mt8qyiqlzq95/s-hfyp98i3ns-13pc8t0.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options3-11ocr8ubyue8k/s-hfyp98iabf-0v1cwmw-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options3-11ocr8ubyue8k/s-hfyp98iabf-0v1cwmw.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options3-2jr4trtygu0gj/s-hfypmxeivy-0rckaxb-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/options3-2jr4trtygu0gj/s-hfypmxeivy-0rckaxb.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/quiz2-2u5wmclz7ttuv/s-hfypmxft1r-1y0ivk3-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/quiz2-2u5wmclz7ttuv/s-hfypmxft1r-1y0ivk3.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/quiz3-2znbv7bkf720c/s-hfypatoyl5-0rxt3vj-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/quiz3-2znbv7bkf720c/s-hfypatoyl5-0rxt3vj.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings1-360f5b2mkkd2a/s-hfypmxfpyh-0oehqu2-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings1-360f5b2mkkd2a/s-hfypmxfpyh-0oehqu2.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings1-3jcfyul656ycy/s-hfyp99oqm6-1keabfy-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings1-3jcfyul656ycy/s-hfyp99oqm6-1keabfy.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings2-0bq0qdfz8h6i6/s-hfyp99ntxi-14c1bav-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings2-0bq0qdfz8h6i6/s-hfyp99ntxi-14c1bav.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings2-1d0pihn5b1ldj/s-hfypacblds-0ayj87t-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings2-1d0pihn5b1ldj/s-hfypacblds-0ayj87t.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings3-14bcj1zpw8lj2/s-hfypatyzan-0fmksq6-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings3-14bcj1zpw8lj2/s-hfypatyzan-0fmksq6.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings3-2vnvzxvrlxzhy/s-hfyp9qq2o9-1lkdvdx-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings3-2vnvzxvrlxzhy/s-hfyp9qq2o9-1lkdvdx.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings3-2vnvzxvrlxzhy/s-hfyp9v8wws-0htssqe-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings3-2vnvzxvrlxzhy/s-hfyp9v8wws-0htssqe.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings4-0tspypylctxl0/s-hfypakkkfa-1r8xtah-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings4-0tspypylctxl0/s-hfypakkkfa-1r8xtah.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings4-17suu3q9fulws/s-hfypmxpahg-0kx4egc-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/strings4-17suu3q9fulws/s-hfypmxpahg-0kx4egc.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests1-0a38unpcfk388/s-hfypakb1x5-0flffxw-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests1-0a38unpcfk388/s-hfypakb1x5-0flffxw.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests1-0a38unpcfk388/s-hfypakkyd7-1urfng2-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests1-0a38unpcfk388/s-hfypakkyd7-1urfng2.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests2-1i9pe9389u7fq/s-hfyp9qc2pl-0znlott-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests2-1i9pe9389u7fq/s-hfyp9qc2pl-0znlott.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests3-2p7ni715gszub/s-hfypacrzvk-0sxkdg5-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/tests3-2p7ni715gszub/s-hfypacrzvk-0sxkdg5.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads1-01rvjy5hq007p/s-hfypatn7ug-12ggw3d-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads1-01rvjy5hq007p/s-hfypatn7ug-12ggw3d.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads1-0h9q78n012mpp/s-hfyp99o92s-1kglevz-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads1-0h9q78n012mpp/s-hfyp99o92s-1kglevz.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads2-14wi6csuv75i8/s-hfypatnvor-0xwql4j-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads2-14wi6csuv75i8/s-hfypatnvor-0xwql4j.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads2-14wi6csuv75i8/s-hfypaty2kw-16fx6vt-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads2-14wi6csuv75i8/s-hfypaty2kw-16fx6vt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads2-1dq6d135xc3d9/s-hfyp80owyl-1yry414-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads2-1dq6d135xc3d9/s-hfyp80owyl-1yry414.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads3-2f2dk3tnlonjl/s-hfypacr7a2-1von92m-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads3-2f2dk3tnlonjl/s-hfypacr7a2-1von92m.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads3-3ptr7rrl4psck/s-hfypmxoxf3-14k1nrm-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/threads3-3ptr7rrl4psck/s-hfypmxoxf3-14k1nrm.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits1-0b0nck5of500m/s-hfyp9v7hlj-0slv1qt-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits1-0b0nck5of500m/s-hfyp9v7hlj-0slv1qt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits1-1mwi3xecph39r/s-hfypato26q-1czw1o3-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits1-1mwi3xecph39r/s-hfypato26q-1czw1o3.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits1-1mwi3xecph39r/s-hfypaty3ld-1cpj2ms-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits1-1mwi3xecph39r/s-hfypaty3ld-1cpj2ms.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits2-26sge03ss2iaw/s-hfypmxfblg-0tizf8n-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits2-26sge03ss2iaw/s-hfypmxfblg-0tizf8n.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits2-26sge03ss2iaw/s-hfypmxp1fi-0rskvof-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits2-26sge03ss2iaw/s-hfypmxp1fi-0rskvof.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits3-05okvkffxqi5g/s-hfypmxf8or-031nb5n-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits3-05okvkffxqi5g/s-hfypmxf8or-031nb5n.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits3-2zk1l50f7usom/s-hfyp9eu6od-0whzdzp-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits3-2zk1l50f7usom/s-hfyp9eu6od-0whzdzp.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits4-1t1ps4e2oiwi8/s-hfyp98hia5-0t9lqst-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits4-1t1ps4e2oiwi8/s-hfyp98hia5-0t9lqst.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits4-2y35eyq69y04u/s-hfypmxp623-0m5i78d-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits4-2y35eyq69y04u/s-hfypmxp623-0m5i78d.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits5-0auds45oq4yv8/s-hfypatnr0r-1gcak7h-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits5-0auds45oq4yv8/s-hfypatnr0r-1gcak7h.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits5-34q8id1wbh9zu/s-hfypakkujj-1wsdmuj-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/traits5-34q8id1wbh9zu/s-hfypakkujj-1wsdmuj.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/try_from_into-0rp0qbyd70a4l/s-hfypmxp03t-08t7ok9-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/try_from_into-0rp0qbyd70a4l/s-hfypmxp03t-08t7ok9.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/try_from_into-1d6h2jslb9llg/s-hfypaccp6p-0ekfkt8-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/try_from_into-1d6h2jslb9llg/s-hfypaccp6p-0ekfkt8.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/try_from_into-1d6h2jslb9llg/s-hfypacsrjc-0a5alg3-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/try_from_into-1d6h2jslb9llg/s-hfypacsrjc-0a5alg3.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/using_as-0mrj0h5ubz3sy/s-hfypmxepmc-02xu0cv-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/using_as-0mrj0h5ubz3sy/s-hfypmxepmc-02xu0cv.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/using_as-20bxzmxor8uxl/s-hfypmxph22-1iyics2-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/debug/incremental/using_as-20bxzmxor8uxl/s-hfypmxph22-1iyics2.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ABL4ucq1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3BBWiCdPh65YfHb7MG8emNQJdHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package Struct_DB --bin Struct_DB" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e685ba1-cbd1-46f7-bfc6-76dbd844f143" name="Changes" comment="" />
+      <created>1773963068155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773963068155</updated>
+      <workItem from="1773963069331" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
